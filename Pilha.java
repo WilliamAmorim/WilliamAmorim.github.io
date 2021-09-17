@@ -6,7 +6,10 @@ import java.util.Scanner;
  * @author willi
  */
 public class Pilha {
-
+    
+    
+    // Pilha pilha = new Pilha();
+    // Pilha.menu();
     public void menu() {
 
         try {
