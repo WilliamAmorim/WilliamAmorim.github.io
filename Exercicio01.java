@@ -1,5 +1,12 @@
 import java.util.Scanner;
 
+public class Pilha {
+
+    public int nPessoas;
+    public int c3,c5,c8,c11,c13;
+    public Pilha prox;
+}
+
 public class Exercicio01 {
     private Scanner teclado = new Scanner(System.in);
     public int nPessoas;
