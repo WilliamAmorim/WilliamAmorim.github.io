@@ -54,13 +54,16 @@
         if(totalpessoas > 0) {
             porcentagem = 100 / totalpessoas;
 
+ porcentagem = 100 / totalpessoas;
+            double n =  porcentagem * canal3;
             System.out.println("PORCENTAGEM DE AUDIÊNCIA");
-            System.out.println("Audiencia do Canal 3 : " + porcentagem * canal3+"%");
+            System.out.println("Audiencia do Canal 3 : " + n+"%");
             System.out.println("Audiencia do Canal 5 : " + porcentagem * canal5+"%");
             System.out.println("Audiencia do Canal 8 : " + porcentagem * canal8+"%");
             System.out.println("Audiencia do Canal 11 : " + porcentagem * canal11+"%");
             System.out.println("Audiencia do Canal 13 : " + porcentagem * canal13+"%");
             System.out.println(" Total de pessoas "+totalpessoas);
+
         }
 
 
