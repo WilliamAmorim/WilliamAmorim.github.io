@@ -1,0 +1,51 @@
+public class Main {
+
+    public static void main(String[] args) {
+//        Exercicio01 exercicio01 = new Exercicio01();
+//        int[] numeros = {1,2,3,4,5,6,7,8,9};
+//        exercicio01.exercicio(numeros);
+//
+//        Exercicio02 exercicio02 = new Exercicio02();
+//        exercicio02.setPalavra("palavra");
+//        exercicio02.getLetras();
+//
+//        Exercicio03 exercicio03 = new Exercicio03();
+//        exercicio03.empilhar(5);
+//        exercicio03.empilhar(3);
+//        exercicio03.desempilhar();
+//        exercicio03.empilhar(2);
+//        exercicio03.empilhar(8);
+//        exercicio03.desempilhar();
+//        exercicio03.desempilhar();
+//        exercicio03.desempilhar();
+//        exercicio03.empilhar(9);
+//        exercicio03.empilhar(1);
+//        exercicio03.desempilhar();
+//        exercicio03.empilhar(7);
+//        exercicio03.empilhar(6);
+//        exercicio03.desempilhar();
+//        exercicio03.desempilhar();
+//        exercicio03.empilhar(4);
+//        exercicio03.desempilhar();
+//        exercicio03.desempilhar();
+//        exercicio03.getPilha();
+
+
+//        Exercicio04 exercicio04 = new Exercicio04();
+//        exercicio04.addPaciente("william", "124");
+//        exercicio04.chamarPaciente();
+
+
+        
+//        Exercicio05 exercicio05 = new Exercicio05();
+//        exercicio05.addPaciente("William", "13:00");
+//        
+//        exercicio05.addPaciente("William01", "14:00");
+//        
+//        exercicio05.addPaciente("William02", "16:00");
+//        
+//        exercicio05.chamar("13:10");
+//        
+//        exercicio05.mostrarMedia();
+ 
+    }
